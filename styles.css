@@ -1,0 +1,58 @@
+html, head { 
+	width: 80%; 
+	height: auto; 
+	margin: 0 auto; 
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	}
+.clear { 
+	display: block; 
+	clear: both; 
+	}
+#container { 
+	width: 80%; 
+	margin: 0 auto; 
+	text-align: center;
+	}
+	#header { 
+		width: 100%; 
+		height: auto; 
+		border-bottom: 1px #000 solid; 
+		}
+		#nav { 
+			color: #000; 
+			}
+			a:link, a:active, a:hover, a:visited { 
+				color: #000;
+				}
+	#content { 
+		width: 100%; 
+		padding: 10pt 0; 
+		}
+		.paragraph { 
+			width: 65%; 
+			float: left; 
+			text-align: left; 
+			border-bottom: 1px #000 solid; 
+			}
+		.profilepic { 
+			text-align: 
+			center; width: 25%; 
+			height: auto; 
+			float: right; 
+			}
+	#footer { 
+		border-top: 3px #000 solid; 
+		width: 100%; 
+		margin: 10pt 0; 
+		padding: 10pt 0; 
+		}
+		#footer a:link,a:active,a:hover,a:visited { 
+			font-weight: bold; 
+			padding: 10pt; 
+			margin: }
+h1 { }
+.hr { 
+	margin: 10px; 
+	background-color: #000; 
+	width: 100%; 
+	}
